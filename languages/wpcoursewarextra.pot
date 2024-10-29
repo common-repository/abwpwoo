@@ -1,0 +1,87 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Addon for AB-Inspiration, WooCoocommerce and WP "
+"Courseware\n"
+"POT-Creation-Date: 2020-03-26 21:22+0300\n"
+"PO-Revision-Date: 2020-03-26 21:22+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: wwpcouseware-extra-settings.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: wwpcouseware-extra-settings.php:30
+msgid "Доп. настройки"
+msgstr ""
+
+#: wwpcouseware-extra-settings.php:42
+msgid "Дополнительные настройки для плагина WP Courseware"
+msgstr ""
+
+#: wwpcouseware-extra-settings.php:50
+msgid "Исключить курсы из каталога:"
+msgstr ""
+
+#: wwpcouseware-extra-settings.php:79
+msgid "Курс + Товар:"
+msgstr ""
+
+#: wwpcouseware-extra-settings.php:127
+msgid "Курс + Страницы:"
+msgstr ""
+
+#: wwpcouseware-extra-settings.php:155
+msgid "Оставить страницу курса"
+msgstr ""
+
+#: wwpcouseware-extra-settings.php:206
+msgid "Это не вы?"
+msgstr ""
+
+#: wwpcouseware-extra-settings.php:206
+msgid "Выйти"
+msgstr ""
+
+#: wwpcouseware-extra-settings.php:218
+msgid ""
+"Вы успешно зачислены на курс. Выбранные вами курсы смотрите в ЛИЧНОМ "
+"КАБИНЕТЕ в разделе КУРСЫ"
+msgstr ""
+
+#: wwpcouseware-extra-settings.php:258
+msgid "Завершено на "
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Addon for AB-Inspiration, WooCoocommerce and WP Courseware"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://ab-inspiration.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"The official extension AB-Inspiration for add integration for WP Courseware "
+"and WooCommmerce."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Anfisa Breus"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://anfisabreus.ru"
+msgstr ""
